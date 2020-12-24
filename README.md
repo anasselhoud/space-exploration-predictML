@@ -1,2 +1,2 @@
-# space-exploration-predictML
-Machine Learning Algorithms Applied in Space Exploration
+# Space Exploration Prediction
+Using ML Algorithms and Data Analysis for Meteor Showers prediction.
