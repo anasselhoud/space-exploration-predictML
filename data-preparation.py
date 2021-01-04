@@ -51,3 +51,6 @@ for index, row in moon_phases.iterrows():
 
 mt = mt.drop(['startmonth','startday','endmonth','endday','hemisphere'],axis=1)
 moon_phases.loc[moon_phases['percentage'].idxmin()]['date']
+
+                                                      
+                                                      ##TO-DO: dvelopping an app linked 
